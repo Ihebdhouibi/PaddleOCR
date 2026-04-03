@@ -101,4 +101,4 @@ for doc in loader.lazy_load():
 
 ## 📖 文档
 
-完整文档请参阅 [API 参考](https://reference.langchain.com/python/integrations/langchain_paddleocr/)。有关概念指南、教程和使用示例，请参阅 [LangChain 文档](https://docs.langchain.com/oss/python/integrations/providers/paddleocr)。
+完整文档请参阅 [LangChain 文档](https://docs.langchain.com/oss/python/integrations/providers/baidu)。

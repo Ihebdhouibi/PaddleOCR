@@ -100,4 +100,4 @@ See the full list in `PaddleOCRConfig`.
 
 ## 📖 Documentation
 
-For full documentation, see the [API reference](https://reference.langchain.com/python/integrations/langchain_paddleocr/). For conceptual guides, tutorials, and usage examples, see the [LangChain Docs](https://docs.langchain.com/oss/python/integrations/providers/paddleocr).
+For full documentation, see the [LangChain Docs](https://docs.langchain.com/oss/python/integrations/providers/baidu).
